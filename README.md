@@ -1,4 +1,4 @@
-# Simple Modd detector Project
+# Simple Mood detector Project
 this is simple mood detector project created using react JS
 # working:
 1 firstly user enters their mood as an input
